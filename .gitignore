@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+/data/raw/
+/data/processed/
+.vscode/
+/models/
+outputs/

@@ -1,0 +1,15 @@
+torch>=1.13.0
+transformers[torch]>=4.30.0#installstransformers with PyTorch support only :contentReference[oaicite:0]{index=0}
+datasets>=2.12.0
+#handling & utilities
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+emoji>=2.0.0
+#scraping
+python-dotenv>=1.1.0  
+selenium>=4.8.0
+#fin api
+yfinance>=0.2.25
+#modeling
+scikit-learn>=1.2.0
